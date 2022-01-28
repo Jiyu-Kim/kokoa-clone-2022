@@ -1,3 +1,3 @@
 # Kokoa Clone 2022 Update.
 
-HTML & CSS are so much fun!
+practice for HTML and CSS by clone coding Kakao Talk
