@@ -6,8 +6,9 @@
 </div>
 <div>
 
-  ## 📌 Kokoa clone 2022
-  ### Kokoa clone 2022 is for learning HTML and CSS by clone coding Kakao Talk.
+  ## 📌 Introduction
+  This project is to practice HTML and CSS by clone coding Kakao Talk.
+  <br/>
   <br/>
   
   ## 🔧 Tech Stack
